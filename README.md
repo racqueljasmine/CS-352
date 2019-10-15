@@ -4,6 +4,7 @@ CS 352 Project
 Version Python 3.6.8*
 
 How to execute on iLabs
+
 Terminal A
 > python3 server1.py -f AliceCh1.txt -u 8888 -v 9999
 
